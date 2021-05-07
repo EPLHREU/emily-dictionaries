@@ -1,0 +1,7 @@
+{
+"PWRA*EBG": "\n(break ended: {:time:%H:%M:%S}{^})\n",
+"PWRAEBG": "\n(break started: {:time:%H:%M:%S}{^})\n",
+"SO*FL": "{:time:%Y-%m-%dT%H:%M:%S.%f%z}",
+"T*EUPL": "{:time:%H:%M:%S}",
+"TKA*ET": "{:time:%A, %d %B, %Y}"
+}

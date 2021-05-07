@@ -1,0 +1,9 @@
+{
+"SPH-FPLT": "{MODE:SET_SPACE:-}",
+"SPH-PBG": "{MODE:CAPS}",
+"SPH-PBLG": "{MODE:CAMEL}",
+"SPH-R": "{MODE:RESET}",
+"SPH-RL": "{MODE:LOWER}",
+"SPH-S": "{MODE:SNAKE}",
+"SPH-T": "{MODE:TITLE}"
+}
