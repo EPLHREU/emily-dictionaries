@@ -1,9 +1,13 @@
 {
 "*EPBT": "int",
+"KPEUL": "pkill",
 "KPR": "cp",
+"PHA*EBGS": "emacs",
 "PHR-RPL": "rm",
 "PW-PD": "pwd",
 "SAO": "sudo",
+"SAO*": "doas",
+"SAO*/SAO*": "doas !!",
 "SAO/SAO": "sudo !!",
 "SH-S": "ssh",
 "SHR": "ls",
