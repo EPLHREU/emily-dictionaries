@@ -4,6 +4,7 @@
 "KPR": "cp",
 "PHA*EBGS": "emacs",
 "PHR-RPL": "rm",
+"PHR-RPL/PHR-RPL": "rm -rf",
 "PW-PD": "pwd",
 "SAO": "sudo",
 "SAO*": "doas",
