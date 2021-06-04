@@ -30,6 +30,8 @@
 "TKPWR*EP": "egrep",
 "TKPWREP": "grep",
 "TKRAR": "tar -zcvf",
+"TKRO*E": "tecoc",
+"TKROE": "teco",
 "TP-PL": "tmp",
 "TR": "cd",
 "TR*": "dc",
