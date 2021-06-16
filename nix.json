@@ -1,6 +1,8 @@
 {
 "*EPBT": "int",
+"AO*ULTS": "utils",
 "KPEUL": "pkill",
+"KPHOD": "chmod",
 "KPR": "cp",
 "PHA*EBGS": "emacs",
 "PHR-RPL": "rm",
@@ -14,6 +16,7 @@
 "SHR": "ls",
 "SHR/SHR": "ls -lahtr",
 "SKPRAOE": "scp",
+"SKR": "src",
 "SPHR": "mv",
 "SRURS": "usr",
 "STKPWEUT": "git status",

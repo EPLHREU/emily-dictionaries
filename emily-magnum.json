@@ -1,5 +1,7 @@
 {
 "#": "{*+}",
+"*E78": "emily",
+"A*ELS": "Easteal",
 "H-F": "{^}\n{^}",
 "H-FPLT": "{^}.\n{^}{-|}",
 "HR-FR": "{PLOVER:LOOKUP}",
@@ -16,6 +18,8 @@
 "SP": "{^ ^}",
 "ST-D": "std",
 "TKAEPB": "Dani",
+"TKPWOPB": "gone",
 "TKPWR*": "grr",
-"TOE/HOE": "touhou"
+"TOE/HOE": "touhou",
+"W*EBGS": "Webex"
 }
