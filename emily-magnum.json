@@ -1,9 +1,11 @@
 {
 "#": "{*+}",
 "*E78": "emily",
+"*ERLG": "erlang",
 "A*ELS": "Easteal",
 "H-F": "{^}\n{^}",
 "H-FPLT": "{^}.\n{^}{-|}",
+"H-FRBGS": "{^},\n{^}",
 "HR-FR": "{PLOVER:LOOKUP}",
 "KHAO*UL": "actually",
 "KHAOUL": "actual",
